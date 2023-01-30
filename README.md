@@ -17,7 +17,7 @@ python -m venv venv
 <h5><p>3. Activate venv for Windows</p></h5>
 
 ```bash
-.\venv\Scricript\activate
+.\venv\Scripts\activate
 ```
 
 <h5><p>4. Install all requirements</p></h5>
