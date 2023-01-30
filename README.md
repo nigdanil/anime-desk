@@ -22,10 +22,13 @@ python -m venv venv
 ```
 
 <h5><p>4. Install all requirements</p></h5>
+
 ```bash
 pip install -r requirements.txt
 ```
+
 <h5><p>5. Run Flask app</p></h5>
+
 ```bash
 flask run
 ```
