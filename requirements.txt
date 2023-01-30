@@ -1,0 +1,6 @@
+requests
+bs4
+flask
+yarl
+pycryptodomex
+fake-useragent
