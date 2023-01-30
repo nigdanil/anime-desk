@@ -12,7 +12,6 @@ https://github.com/nigdanil/anime-desk.git
 
 ```bash
 python -m venv venv
-
 ```
 
 <h5><p>3. Activate venv for Windows</p></h5>
